@@ -22,18 +22,24 @@ public String[] findRelativeRanks(int[] nums) {
 }    
 
 /*
-_____________________________________________ANALISIS DE EL ALGORITMO________________________________________
- Se le da una matriz scorede números enteros de tamaño n, donde score[i]es el puntaje del atleta en una competencia. Se garantiza que todas las puntuaciones son únicas .ith
+_____________________________ANALISIS DE EL ALGORITMO__________________________
+ Se le da una matriz scorede números enteros de tamaño n, donde score[i]es el 
+puntaje del atleta en una competencia. Se garantiza que todas las puntuaciones 
+son únicas .ith
 
-Los atletas se colocan en función de sus puntajes, donde el atleta del lugar tiene el puntaje más alto, el atleta del lugar tiene el puntaje más alto, y así sucesivamente. La ubicación de cada atleta determina su rango:1st2nd2nd
+Los atletas se colocan en función de sus puntajes, donde el atleta del lugar 
+tiene el puntaje más alto, el atleta del lugar tiene el puntaje más alto, y 
+así sucesivamente. La ubicación de cada atleta determina su rango:1st2nd2nd
 
 El lugar donde se encuentra el rango del atleta .1st"Gold Medal"
 El lugar donde se encuentra el rango del atleta .2nd"Silver Medal"
 El lugar donde se encuentra el rango del atleta .3rd"Bronze Medal"
-Para el puesto del atleta del puesto, su rango es su número de puesto (es decir, el puesto del atleta del puesto es ).4thnthxth"x"
+Para el puesto del atleta del puesto, su rango es su número de puesto (
+es decir, el puesto del atleta del puesto es ).4thnthxth"x"
 Devuelve una matriz answerde tamaño ndonde answer[i]está el rango del atleta.ith
 
-___________________________________________ANALISIS DE COMPLEJIDAD_____________________________________________________________
+_________________________ANALISIS DE COMPLEJIDAD________________________________
+
 El analisis de complejidad del algoritmo es O(n2)
 
  */
