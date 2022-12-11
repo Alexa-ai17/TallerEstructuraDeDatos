@@ -1,5 +1,38 @@
 # TallerEstructuraDeDatos
 
+PROJECT TITLE: TALLER DE ESTRUCTURA DE DATOS AVANZANDAS
+
+PURPOSE OF PROJECT: MEJORAR EN EL DESARROLLO Y ANALISIS DE ESTRUCTURA DE DATOS MAS ESPECIFICAMENTE ARBOLES
+
+VERSION or DATE: 2022
+
+HOW TO START THIS PROJECT: 2022
+
+AUTHORS:
+
+ANGELA DANIELA CAMPEROS REYES - 1152076
+JUAN ESTEBAN HERNANDEZ ALVAREZ - 1152122
+MARIA ALEXANDRA SIERRA PABON - 1152079
+
+USER INSTRUCTIONS: A continuación una lista de problemas relacionados con estructuras de datos avanzadas:
+
+https://leetcode.com/problems/complete-binary-tree-inserter/ https://leetcode.com/problems/binary-tree-inorder-traversal/ https://leetcode.com/problems/validate-binary-search-tree/ https://leetcode.com/problems/minimum-height-trees/ https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/ https://leetcode.com/problems/find-if-path-exists-in-graph/ https://leetcode.com/problems/relative-ranks/ https://codeforces.com/problemset/problem/681/C https://atcoder.jp/contests/abc240/tasks/abc240_b?lang=en https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1998 Para cada problema debe:
+
+Resolverlo en la plataforma
+
+Escribir un programa que genere dos ficheros TXT, un fichero con datos de entrada y otro con datos de salida. Estos datos deben servir para probar la misma solución anterior en otra plataforma. La prueba debe realizarla (según lo explicado en clase) usando redirección de I/O por comandos < in.txt >out.txt
+
+Explicar la solución con un ejemplo gráfico, con colores, paso a paso. Por ejemplo, si se requiere armar un árbol y luego recorrerlo, debe mostrarse un ejemplo completo de manera gráfica. Si se deben considerar varios escenarios o casos borde, deben incluirse en esta explicación.
+
+Publicar todo lo anterior en git hub en un repositorio, usando el README para la documentación. Subir a UVIRTUAL un ZIP completo del repositorio.
+
+Evaluar el trabajo de un compañero, según la rúbrica del taller.
+
+El trabajo puede hacerlo en equipo, pero la entrega debe ser individual.
+
+Sobre estos mismos problemas se hará el examen final del curso.
+
+
 EJERCICIO NUMERO 1
 
 
