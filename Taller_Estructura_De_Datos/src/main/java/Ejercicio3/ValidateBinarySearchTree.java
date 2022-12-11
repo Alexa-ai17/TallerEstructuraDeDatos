@@ -3,9 +3,36 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package Ejercicio3;
+/*
+Dada la rootde un árbol binario, determine si es un árbol de búsqueda binario (BST) válido .
 
+Un BST válido se define de la siguiente manera:
 
-//Definition for a binary tree node.
+* La izquierda subárbol de un nodo contiene solo nodos con claves menores que
+la clave del nodo.
+
+* El subárbol derecho de un nodo contiene solo nodos con claves mayores que la 
+clave del nodo.
+
+* Los subárboles izquierdo y derecho también deben ser árboles de búsqueda binarios.
+
+Ejemplo 1:
+********************************************
+*             (1)                          *
+*            /   \                         *
+*           /     \                        *
+*         (2)     (3)                      *
+* Entrada: raíz = [2,1,3]                  *
+* Salida: verdadero                        *
+********************************************
+
+Restricciones:
+
+* El número de nodos en el árbol está en el rango .[1, 104]
+* -231 <= Node.val <= 231 - 1
+
+*/
+
   public class TreeNode {
       int val;
       TreeNode left;
